@@ -1,4 +1,7 @@
 ## Overview
+
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/data-migration-tool.svg)](https://www.guardrails.io)
+
 We're pleased you're considering moving from the world's #1 eCommerce platform—Magento 1.x—to the eCommerce platform for the future, Magento 2. We're also excited to share the details about this process, which we refer to as migration.
 
 Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations.
